@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="maven-quick-start" target="11" />
+      <module name="maven-quick-start" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
